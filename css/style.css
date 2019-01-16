@@ -1,0 +1,19 @@
+body{
+
+    font-family: "Arial Narrow";
+
+
+}
+
+
+header{
+
+    padding: 200px;
+}
+h1,
+h2
+{color: #00afaf;
+   text-align: center;
+   font-weight: 900;
+
+}
