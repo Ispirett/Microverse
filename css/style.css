@@ -17,3 +17,11 @@ h2
    font-weight: 900;
 
 }
+
+.project-tile {
+    background-color: #f9f7d4;
+}
+
+.project-tile a {
+    color: red;
+}
